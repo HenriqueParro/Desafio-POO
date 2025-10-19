@@ -133,10 +133,7 @@ Acentos e formatação: se o console exibir caracteres estranhos, configure UTF-
 
 ➕ Próximos Passos (opcionais)
 ID estável por repositório (Map<Integer, Imovel>) ao invés de índice da lista
-
 Persistência simples (CSV/JSON)
-
 BigDecimal para valores monetários
 
-calcularAluguel(int meses) com desconto por período (caso deseje essa semântica)
 
